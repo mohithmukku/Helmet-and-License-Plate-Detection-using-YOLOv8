@@ -1,0 +1,1 @@
+0 0.5 0.5 0.3 0.4  # class_id x_center y_center width height (values normalized to 0-1)

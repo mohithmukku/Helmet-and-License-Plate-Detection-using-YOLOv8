@@ -1,0 +1,6 @@
+train: C:/Users/MOHITH/helmet_detection/datasets/dataset/images/train
+val: C:/Users/MOHITH/helmet_detection/datasets/dataset/images/val
+nc: 4  # number of classes
+names: ['rider', 'with helmet', 'without helmet', 'number plate']
+
+
